@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/bhoolandio/weather-station-pipy.png?columns=all)](https://waffle.io/bhoolandio/weather-station-pipy?utm_source=badge)
 # Weather-Station-Pipy
 raspberry pi 3 python project - home project
 we do this project for learn the pratical basement of IoT
